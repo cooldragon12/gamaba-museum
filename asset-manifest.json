@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/gamaba-museum/static/css/main.37969e0c.chunk.css",
-    "main.js": "/gamaba-museum/static/js/main.17b4bb5e.chunk.js",
-    "main.js.map": "/gamaba-museum/static/js/main.17b4bb5e.chunk.js.map",
+    "main.css": "/gamaba-museum/static/css/main.188c9b6e.chunk.css",
+    "main.js": "/gamaba-museum/static/js/main.3d1dfde7.chunk.js",
+    "main.js.map": "/gamaba-museum/static/js/main.3d1dfde7.chunk.js.map",
     "runtime-main.js": "/gamaba-museum/static/js/runtime-main.425a004b.js",
     "runtime-main.js.map": "/gamaba-museum/static/js/runtime-main.425a004b.js.map",
     "static/js/2.aa4081b2.chunk.js": "/gamaba-museum/static/js/2.aa4081b2.chunk.js",
     "static/js/2.aa4081b2.chunk.js.map": "/gamaba-museum/static/js/2.aa4081b2.chunk.js.map",
     "index.html": "/gamaba-museum/index.html",
-    "static/css/main.37969e0c.chunk.css.map": "/gamaba-museum/static/css/main.37969e0c.chunk.css.map",
+    "static/css/main.188c9b6e.chunk.css.map": "/gamaba-museum/static/css/main.188c9b6e.chunk.css.map",
     "static/js/2.aa4081b2.chunk.js.LICENSE.txt": "/gamaba-museum/static/js/2.aa4081b2.chunk.js.LICENSE.txt",
     "static/media/biography1.2b41a773.png": "/gamaba-museum/static/media/biography1.2b41a773.png",
     "static/media/gallery1-removebg-preview.030f8358.png": "/gamaba-museum/static/media/gallery1-removebg-preview.030f8358.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.425a004b.js",
     "static/js/2.aa4081b2.chunk.js",
-    "static/css/main.37969e0c.chunk.css",
-    "static/js/main.17b4bb5e.chunk.js"
+    "static/css/main.188c9b6e.chunk.css",
+    "static/js/main.3d1dfde7.chunk.js"
   ]
 }
