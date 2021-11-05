@@ -44,7 +44,7 @@ const App = ()=>{
         <Background className="main">
             
             {/* TODO: Navigation put Here */}
-            <NavigationBar currentLoc={currentLoc}/>
+            <NavigationBar scrollState={currentLoc}/>
           
             <>
             {/* TODO: Body put Here */}

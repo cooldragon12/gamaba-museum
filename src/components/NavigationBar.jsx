@@ -6,22 +6,22 @@ import logo from '../img/logo.png'
 
 
  const NavigationBar = (props)=>{
-    const {currentLoc} =props;
+    const {scrollState} =props;
     return(
         <NavCont>
             <LogoCont/>
             <Un>
                 <Lis>
-                    <NavItem className={currentLoc === 1 ? "active":""} href="#Home">HOME</NavItem>
+                    <NavItem style={{ color: (scrollState === 1 ?main_content:head_color), textDecoration:(scrollState === 1 ?"underline 2px #3d2305":"none")}} className={scrollState === 1 ? "active":""} href="#Home">HOME</NavItem>
                 </Lis>
                 <Lis>
-                    <NavItem className={currentLoc === 2 ? "active":""} href="#Biography">BIOGRAPHY</NavItem>
+                    <NavItem style={{ color: (scrollState === 2 ?main_content:head_color), textDecoration:(scrollState === 2 ?"underline 2px #3d2305":"none")}} className={scrollState === 2 ? "active":""} href="#Biography">BIOGRAPHY</NavItem>
                 </Lis>
                 <Lis>
-                    <NavItem className={currentLoc === 3 ? "active":""} href="#Gallery">GALLERY</NavItem>
+                    <NavItem style={{ color: (scrollState === 3 ?main_content:head_color), textDecoration:(scrollState === 3 ?"underline 2px #3d2305":"none")}} className={scrollState === 3 ? "active":""} href="#Gallery">GALLERY</NavItem>
                 </Lis>
                 <Lis>
-                    <NavItem className={currentLoc === 4 ? "active":""} href="#Reference">REFERENCES</NavItem>
+                    <NavItem style={{ color: (scrollState === 4 ?main_content:head_color), textDecoration:(scrollState === 4 ?"underline 2px #3d2305":"none")}} className={scrollState === 4 ? "active":""} href="#Reference">REFERENCES</NavItem>
                 </Lis>
             </Un>
         </NavCont>
@@ -61,7 +61,7 @@ const NavItem = styled.a`
         font-size: 20px;
         color: ${head_color};
         text-decoration:none;
-        font-weigth: 600;
+        font-weight: 600;
         transition: text-decoration .25s ease-in, color .28s ease-out;
         &:hover{
             color: ${main_content};
