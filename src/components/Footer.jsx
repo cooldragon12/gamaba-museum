@@ -94,7 +94,7 @@ const Footer = ()=>{
 
             </Row>
             <Row  alignitems="center" style={{height:"20%"}}>
-                <Subtitle fw="bold">@ 2021 KASAGSAGAN. <span style={{color:head_color}}>All Rights Reserved</span></Subtitle>
+                <Subtitle fw="bold">© 2021 KASAGSAGAN. <span style={{color:head_color}}>All Rights Reserved</span></Subtitle>
             </Row>
         </FooterCont>
     )
