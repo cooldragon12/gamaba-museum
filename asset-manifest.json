@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gamaba-museum/static/css/main.188c9b6e.chunk.css",
-    "main.js": "/gamaba-museum/static/js/main.1b9fd8e3.chunk.js",
-    "main.js.map": "/gamaba-museum/static/js/main.1b9fd8e3.chunk.js.map",
+    "main.js": "/gamaba-museum/static/js/main.5675115d.chunk.js",
+    "main.js.map": "/gamaba-museum/static/js/main.5675115d.chunk.js.map",
     "runtime-main.js": "/gamaba-museum/static/js/runtime-main.425a004b.js",
     "runtime-main.js.map": "/gamaba-museum/static/js/runtime-main.425a004b.js.map",
     "static/js/2.aa4081b2.chunk.js": "/gamaba-museum/static/js/2.aa4081b2.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.425a004b.js",
     "static/js/2.aa4081b2.chunk.js",
     "static/css/main.188c9b6e.chunk.css",
-    "static/js/main.1b9fd8e3.chunk.js"
+    "static/js/main.5675115d.chunk.js"
   ]
 }
