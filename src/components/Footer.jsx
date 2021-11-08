@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { contrast, main_content } from '../style-source/color';
+import { contrast, head_color, main_content } from '../style-source/color';
 const FooterCont = styled.div`
     background-color:${contrast};
     width:100%;
@@ -94,7 +94,7 @@ const Footer = ()=>{
 
             </Row>
             <Row  alignitems="center" style={{height:"20%"}}>
-                <Subtitle fw="bold">all copyrights reserved - name name name bcs23</Subtitle>
+                <Subtitle fw="bold">@ 2021 KASAGSAGAN. <span style={{color:head_color}}>All Rights Reserved</span></Subtitle>
             </Row>
         </FooterCont>
     )
