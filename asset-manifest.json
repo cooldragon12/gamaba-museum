@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gamaba-museum/static/css/main.188c9b6e.chunk.css",
-    "main.js": "/gamaba-museum/static/js/main.267f324b.chunk.js",
-    "main.js.map": "/gamaba-museum/static/js/main.267f324b.chunk.js.map",
+    "main.js": "/gamaba-museum/static/js/main.8598e10c.chunk.js",
+    "main.js.map": "/gamaba-museum/static/js/main.8598e10c.chunk.js.map",
     "runtime-main.js": "/gamaba-museum/static/js/runtime-main.425a004b.js",
     "runtime-main.js.map": "/gamaba-museum/static/js/runtime-main.425a004b.js.map",
     "static/js/2.aa4081b2.chunk.js": "/gamaba-museum/static/js/2.aa4081b2.chunk.js",
@@ -15,6 +15,7 @@
     "static/media/gallery1.f035b819.jfif": "/gamaba-museum/static/media/gallery1.f035b819.jfif",
     "static/media/gallery2.76518a4f.jpg": "/gamaba-museum/static/media/gallery2.76518a4f.jpg",
     "static/media/gallery3.5794feb9.jpg": "/gamaba-museum/static/media/gallery3.5794feb9.jpg",
+    "static/media/gallery4.89f676ca.jpg": "/gamaba-museum/static/media/gallery4.89f676ca.jpg",
     "static/media/home1.c050df0b.png": "/gamaba-museum/static/media/home1.c050df0b.png",
     "static/media/logo.b5b4174c.png": "/gamaba-museum/static/media/logo.b5b4174c.png"
   },
@@ -22,6 +23,6 @@
     "static/js/runtime-main.425a004b.js",
     "static/js/2.aa4081b2.chunk.js",
     "static/css/main.188c9b6e.chunk.css",
-    "static/js/main.267f324b.chunk.js"
+    "static/js/main.8598e10c.chunk.js"
   ]
 }
