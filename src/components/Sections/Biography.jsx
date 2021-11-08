@@ -55,19 +55,23 @@ const Biography = ({scrollLoc})=>{
                 <Section style={{flexDirection:"column", width:"80%",justifyContent:"center"}}>
                     <ContentTitle>Biography</ContentTitle>
                     <ContentParagraph s>
-                    -	is known to be the last of the Tabungaw hat makers, a traditional headgear made of tabungaw or gourd.
+                	Known to be the last of the Tabungaw hat makers, a traditional headgear made of tabungaw or gourd.
                     <br/>
                     <br/>
 
-                    -	Born on March 27, 1941, Teofilo, an Abra local started the art of Kattukong or Tabungaw hat making from his grandfather Hipolito at the age of 15.
+                    Born on March 27, 1941, Teofilo, an Abra local started the art of Kattukong or Tabungaw hat making from his grandfather Hipolito at the age of 15.
                     <br/>
                     <br/>
                     
-                    -	In order to send his five children to school, he spent most of his life working as a farmer. Besides planting upo, he also used the material to make traditional tabungaw. Tabungaw hats are said to take at least seven days to make since he uses only hand tools that he designs himself.
+                    In order to send his five children to school, he spent most of his life working as a farmer. Besides planting upo, he also used the material to make traditional tabungaw. Tabungaw hats are said to take at least seven days to make since he uses only hand tools that he designs himself.
                     <br/>
-                    -	Teofilo Garcia, 74, has learned making the tabungaw from his grandfather when he was still 15 years old. Whenever he goes out, he often wears his tabungaw to the curiosity of other people who often ask then order from him. Over the years, he has mastered and innovated his craft to the point of being recognized nationally.
                     <br/>
-                    -	He mentioned that before, tabungaw makers were also present in several towns in the Ilocos, both Norte and Sur, but like most traditions, and the advent of cheaper, mass-produced products, the craft of the tabungaw has silently waned until, possibly, Mr. Garcia is the last one.
+
+                    Teofilo Garcia, 74, has learned making the tabungaw from his grandfather when he was still 15 years old. Whenever he goes out, he often wears his tabungaw to the curiosity of other people who often ask then order from him. Over the years, he has mastered and innovated his craft to the point of being recognized nationally.
+                    <br/>
+                    <br/>
+
+                    He mentioned that before, tabungaw makers were also present in several towns in the Ilocos, both Norte and Sur, but like most traditions, and the advent of cheaper, mass-produced products, the craft of the tabungaw has silently waned until, possibly, Mr. Garcia is the last one.
 
                     </ContentParagraph>
                 </Section>

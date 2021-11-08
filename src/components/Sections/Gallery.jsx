@@ -6,7 +6,7 @@ import Gallery1 from '../../img/gallery1.jfif';
 import Gallery2 from '../../img/gallery2.jpg';
 import Gallery3 from '../../img/gallery3.jpg';
 import G1 from '../../img/gallery1-removebg-preview.png'
-
+import Gallery4 from '../../img/gallery.jpg'
 const CardCont = styled.div`
     width:20%;
     height:60%;
@@ -96,7 +96,7 @@ const Gallery = ({scrollLoc})=>{
                     <VidPlay  src="https://www.youtube.com/embed/e4fZsl13YPk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen/>
 
                 </CardCont>
-                <CardCont ></CardCont>
+                <CardCont ><ImgHover className="imgHover" Image={Gallery4}/><ImgCont className="iactive" Image={Gallery4}/></CardCont>
             </Row>
 
         </Section>
