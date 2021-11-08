@@ -6,7 +6,7 @@ import Gallery1 from '../../img/gallery1.jfif';
 import Gallery2 from '../../img/gallery2.jpg';
 import Gallery3 from '../../img/gallery3.jpg';
 import G1 from '../../img/gallery1-removebg-preview.png'
-import Gallery4 from '../../img/gallery.jpg'
+import Gallery4 from '../../img/gallery4.jpg'
 const CardCont = styled.div`
     width:20%;
     height:60%;
